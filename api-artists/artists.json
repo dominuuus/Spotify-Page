@@ -1,0 +1,303 @@
+{ 
+  "artists": [
+        {
+            "id": 1,
+            "name": "Foo Fighters",
+            "genre": "Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+        },
+        {
+            "id": 2,
+            "name": "Arctic Monkeys",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174b1b5b5b5b5b5b5b5b5b5b5b5"
+        },
+        {
+            "id": 3,
+            "name": "Kendrick Lamar",
+            "genre": "Hip Hop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf16"
+        },
+        {
+            "id": 4,
+            "name": "Billie Eilish",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf17"
+        },
+        {
+            "id": 5,
+            "name": "Tame Impala",
+            "genre": "Psychedelic Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf18"
+        },
+        {
+            "id": 6,
+            "name": "Lana Del Rey",
+            "genre": "Alternative",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf19"
+        },
+        {
+            "id": 7,
+            "name": "The Weeknd",
+            "genre": "R&B",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf20"
+        },
+        {
+            "id": 8,
+            "name": "Radiohead",
+            "genre": "Alternative Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf21"
+        },
+        {
+            "id": 9,
+            "name": "Adele",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf22"
+        },
+        {
+            "id": 10,
+            "name": "Drake",
+            "genre": "Hip Hop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf23"
+        },
+        {
+            "id": 11,
+            "name": "Taylor Swift",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf24"
+        },
+        {
+            "id": 12,
+            "name": "Post Malone",
+            "genre": "Hip Hop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf25"
+        },
+        {
+            "id": 13,
+            "name": "Kanye West",
+            "genre": "Hip Hop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf26"
+        },
+        {
+            "id": 14,
+            "name": "Rihanna",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf27"
+        },
+        {
+            "id": 15,
+            "name": "Ed Sheeran",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf28"
+        },
+        {
+            "id": 16,
+            "name": "Bruno Mars",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf29"
+        },
+        {
+            "id": 17,
+            "name": "Lady Gaga",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf30"
+        },
+        {
+            "id": 18,
+            "name": "Dua Lipa",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf31"
+        },
+        {
+            "id": 19,
+            "name": "Harry Styles",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf32"
+        },
+        {
+            "id": 20,
+            "name": "Beyoncé",
+            "genre": "R&B",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf33"
+        },
+        {
+            "id": 21,
+            "name": "Eminem",
+            "genre": "Hip Hop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf34"
+        },
+        {
+            "id": 22,
+            "name": "Coldplay",
+            "genre": "Alternative Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf35"
+        },
+        {
+            "id": 23,
+            "name": "Ariana Grande",
+            "genre": "Pop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf36"
+        },
+        {
+            "id": 24,
+            "name": "Travis Scott",
+            "genre": "Hip Hop",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf37"
+        },
+        {
+            "id": 25,
+            "name": "The Beatles",
+            "genre": "Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf38"
+        },
+        {
+            "id": 26,
+            "name": "Queen",
+            "genre": "Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf39"
+        },
+        {
+            "id": 27,
+            "name": "Pink Floyd",
+            "genre": "Progressive Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf40"
+        },
+        {
+            "id": 28,
+            "name": "Led Zeppelin",
+            "genre": "Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf41"
+        },
+        {
+            "id": 29,
+            "name": "Metallica",
+            "genre": "Heavy Metal",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf42"
+        },
+        {
+            "id": 30,
+            "name": "Nirvana",
+            "genre": "Grunge",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf43"
+        },
+        {
+            "id": 31,
+            "name": "Red Hot Chili Peppers",
+            "genre": "Alternative Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf44"
+        },
+        {
+            "id": 32,
+            "name": "Guns N' Roses",
+            "genre": "Hard Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf45"
+        },
+        {
+            "id": 33,
+            "name": "Linkin Park",
+            "genre": "Alternative Metal",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf46"
+        },
+        {
+            "id": 34,
+            "name": "Green Day",
+            "genre": "Punk Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf47"
+        },
+        {
+            "id": 35,
+            "name": "The Rolling Stones",
+            "genre": "Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf48"
+        },
+        {
+            "id": 36,
+            "name": "AC/DC",
+            "genre": "Hard Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf49"
+        },
+        {
+            "id": 37,
+            "name": "The Killers",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf50"
+        },
+        {
+            "id": 38,
+            "name": "Imagine Dragons",
+            "genre": "Pop Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf51"
+        },
+        {
+            "id": 39,
+            "name": "Maroon 5",
+            "genre": "Pop Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf52"
+        },
+        {
+            "id": 40,
+            "name": "Muse",
+            "genre": "Alternative Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf53"
+        },
+        {
+            "id": 41,
+            "name": "Paramore",
+            "genre": "Pop Punk",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf54"
+        },
+        {
+            "id": 42,
+            "name": "Fall Out Boy",
+            "genre": "Pop Punk",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf55"
+        },
+        {
+            "id": 43,
+            "name": "Panic! At The Disco",
+            "genre": "Pop Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf56"
+        },
+        {
+            "id": 44,
+            "name": "Twenty One Pilots",
+            "genre": "Alternative",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf57"
+        },
+        {
+            "id": 45,
+            "name": "The Black Keys",
+            "genre": "Blues Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf58"
+        },
+        {
+            "id": 46,
+            "name": "Arctic Monkeys",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf59"
+        },
+        {
+            "id": 47,
+            "name": "The Strokes",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf60"
+        },
+        {
+            "id": 48,
+            "name": "Vampire Weekend",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf61"
+        },
+        {
+            "id": 49,
+            "name": "Arcade Fire",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf62"
+        },        {
+            "id": 50,
+            "name": "Interpol",
+            "genre": "Indie Rock",
+            "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf63"
+        }
+    ]  
+}
